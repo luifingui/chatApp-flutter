@@ -19,7 +19,7 @@ class RegisterPage extends StatelessWidget {
                   const LogoLogin(mensaje: 'Registro'),
                   _Form(),
                   const LabelsLogin(
-                    ruta: 'register',
+                    ruta: 'login',
                     textIngreso: 'Ingresar con cuenta existente', 
                     cuentaExistente: 'Ya tienes cuenta?',
                   ),
